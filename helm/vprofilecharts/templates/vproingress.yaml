@@ -7,7 +7,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-    - host: zyzel.de
+    - host: vprofile.zyzel.de
       http:
         paths:
           - path: /
